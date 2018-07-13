@@ -40,3 +40,5 @@ Copyright Eric Ellbogen 2019
 - This project is under the **GNU V3** license. [Find it here](https://github.com/ericellb/React-Discord-Clone/blob/master/LICENSE).
 Contribution: 2018-07-13 20:01
 
+Contribution: 2018-07-13 20:02
+
