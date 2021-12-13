@@ -1,10 +1,6 @@
-# React Discord Clone
+# React Discord Clone by cryptoSyndrome
 
 > Functional Discord Clone written in Typescript using React, Socket IO, NodeJS, Express and MySQL
-
-View the live verison at -> http://ericellb.github.io/React-Discord-Clone
-
-Check out the backend code! -> https://github.com/ericellb/React-Discord-API
 
 ** NOTE - This project is not currently maintained. **
 
@@ -31,10 +27,3 @@ Implemented Features
 - [x] Show current active users in given server
 - [x] Convert to Typescript
 - [x] Voice Chat (Buggy, but main features work)
-
-
-## License
-
-Copyright Eric Ellbogen 2019
-
-- This project is under the **GNU V3** license. [Find it here](https://github.com/ericellb/React-Discord-Clone/blob/master/LICENSE).
